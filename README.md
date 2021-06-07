@@ -5,7 +5,7 @@
 <img src = "reports/figures/Alura_diver.png" alt = "Logo_Bootcamp" width = "250" /></div>
 </div>
 
-- [ ] Resumo: 
+- [ ] Resumo: Teste
 - [ ] Fontes de dados:
 - [ ] Objetivos:
 - [ ] Conclusões:
