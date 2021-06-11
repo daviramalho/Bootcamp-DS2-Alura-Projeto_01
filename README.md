@@ -1,8 +1,10 @@
+<!---
 <h1 align = "center"> Bootcamp - Data Science Aplicada - Projeto 01</h1>
 
 <div align = "center">
+--->
 <div>
-<img src = "reports/figures/Alura_diver.png" alt = "Logo_Bootcamp" width = "250" /></div>
+<img src = "reports/figures/projeto_01/Capa_README.png" alt = "Logo_Bootcamp" width = "250" /></div>
 </div>
 
 - [ ] Resumo: Teste
