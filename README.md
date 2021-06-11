@@ -1,6 +1,10 @@
+<!---
 <div>
 <img src = "reports/figures/projeto_01/Capa_README.png" alt = "Logo_Bootcamp"/>
 </div>
+--->
+
+![Capa README](reports/figures/projeto_01/Capa_README.png "Capa do README")
 
 - [ ] Resumo: Teste
 - [ ] Fontes de dados:
