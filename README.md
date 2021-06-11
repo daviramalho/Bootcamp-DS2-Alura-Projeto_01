@@ -1,9 +1,15 @@
 ![Capa README](reports/figures/projeto_01/Capa_README.png "Capa do README")
 
-- [ ] Resumo: Teste
-- [ ] Fontes de dados:
-- [ ] Objetivos:
-- [ ] Conclusões:
+### Resumo:
+
+------
+### Fontes de dados:
+
+------
+### Objetivos:
+
+------
+### Conclusões:
 
 ------
 
