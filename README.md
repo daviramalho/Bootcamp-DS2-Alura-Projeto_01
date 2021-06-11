@@ -24,7 +24,7 @@ O presente estudo busca identificar o tipo de ocorrência que levou a mais despe
 
 ### Resultados encontrados:
 
-A seguir apresenta-se alguns gráficos resultantes do processamento dos dados do SUS.
+O desenvolvimento do estudo em maiores detalhes, bem como os algoritmos e a descrição do processo desenvolvido pode ser localizado no [notebook do projeto](https://github.com/daviramalho/Bootcamp-DS2-Alura-Projeto_01/blob/main/notebooks/projeto_01_analise_dados_datasus.ipynb). A seguir apresenta-se alguns gráficos resultantes do processamento dos dados do SUS.
 
 ![Gráfico Despesas](reports/figures/projeto_01/Despesas_SUS_CE_2011_2016_2021.jpg "Gráfico Despesas")
 ![Gráfico Internações](reports/figures/projeto_01/Internacoes_SUS_CE_2011_2016_2021.jpg "Gráfico Internações")
