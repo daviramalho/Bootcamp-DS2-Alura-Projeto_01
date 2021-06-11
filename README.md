@@ -9,7 +9,7 @@ No módulo investigamos as despesas do SUS no território nacional a partir dos 
 Nesse cenário preliminar surgiram algumas questões de interesse para investigação e aprofundamento:
 - Qual o cenário **GERAL**, nos últimos anos, da relação entre despesas do SUS e o registro da população efetivamente atendida em cada Estado e Região do País? Qual a média de custo por habitante atendido em cada estado e região? Qual o comportamento dos dados quando comparamos os dados do Ceará com os 5 estados com maiores despesas do Brasil? Como se comporta o Ceará em relação a média do Nordeste?
 
-------
+
 ### Fontes de dados:
 
 - [DATASUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi)
@@ -17,12 +17,18 @@ Nesse cenário preliminar surgiram algumas questões de interesse para investiga
 - [Brasil.IO](https://brasil.io/home/)
 - IBGE - [Dados quantitativos](https://ftp.ibge.gov.br/) e [Dados Geoespaciais](https://geoftp.ibge.gov.br/)
 
-------
+
 ### Objetivos:
 
 O presente estudo busca identificar o tipo de ocorrência que levou a mais despesas do SUS no país nos últimos 10 anos, comparando com as despesas promovidas pelo Covid-19 entre fevereiro de 2011 e fevereiro de 2021, buscando espacializar esses dados no território da Região Metropolitana de Fortaleza.
 
-------
+### Resultados encontrados:
+
+A seguir apresenta-se alguns gráficos resultantes do processamento dos dados do SUS.
+
+![Gráfico Despesas](reports/figures/projeto_01/Despesas_SUS_CE_2011_2016_2021.jpg "Gráfico Despesas")
+![Gráfico Internações](reports/figures/projeto_01/Internacoes_SUS_CE_2011_2016_2021.jpg "Gráfico Internações")
+
 ### Conclusões:
 
 Por restrições de tempo e de modo a não prejudicar o andamento dos módulos seguintes do Bootcamp decidiu-se interromper o presente projeto. Nos dados analisados percebeu-se que o estado do Ceará teve um aumento de despesas com saúde entre os anos de 2011 e 2016 de 18% enquanto os registros apresentam uma redução de despesas entre 2016 e 2021 na ordem de 26%.
